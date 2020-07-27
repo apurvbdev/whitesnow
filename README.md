@@ -1,2 +1,2 @@
 # whitesnow
-test angular assignment
+test angular assignment and is pulic

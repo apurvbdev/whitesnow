@@ -1,0 +1,2 @@
+# whitesnow
+test angular assignment
